@@ -1,7 +1,15 @@
 body {
     background-color: #cc2936;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+
 }
 
-.Navbar {
+.navbar {
     background-color: #08415c;
+    color: white;
+}
+
+.headings {
+    font-family: 'Ruslan Display', cursive;
 }
